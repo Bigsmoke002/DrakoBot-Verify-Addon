@@ -1,0 +1,16 @@
+{
+    "name": "drakobot-verify-addon",
+    "version": "1.0.0",
+    "description": "Unofficial verification addon (button, math challenge, verification website) for Drako Bot (archived test project)",
+    "scripts": {
+        "website": "node verify_website.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "discord.js": "^14.14.1",
+        "express": "^4.18.2",
+        "uuid": "^9.0.1"
+    },
+    "author": "Bigsmoke002",
+    "license": "MIT"
+}

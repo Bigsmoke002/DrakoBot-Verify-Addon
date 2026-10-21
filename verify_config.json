@@ -1,0 +1,9 @@
+{
+  "port": 8084,
+  "role": "",
+  "verifyLink": "http://localhost:8084",
+  "verificationLevel": 4,
+  "joinRole": "",
+  "redirectLink": "https://discord.com/channels/YOUR_SERVER_ID/YOUR_CHANNEL_ID",
+  "removeRole": ""
+}
